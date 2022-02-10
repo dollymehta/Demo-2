@@ -1,3 +1,3 @@
 module "ec2" {
-  source = "git"
+  source = "git::https://github.com/dollymehta/Demo-2/tree/main/modules"
 }
